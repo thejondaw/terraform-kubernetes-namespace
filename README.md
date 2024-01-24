@@ -2,7 +2,7 @@
 
 ### Please copy pase bellow code
 
-``` TF
+```
 module "test-namespace" {
   source                  = "../"
   namespace               = "test-namespace"
